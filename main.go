@@ -8,7 +8,7 @@ func main() {
 	if a == 5 {
 		fmt.Println("Is 5")
 		return
-	} else {
-		fmt.Println("Not 5")
 	}
+	fmt.Println("Not 5")
+
 }
